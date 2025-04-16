@@ -7,21 +7,21 @@ It's a simple, focused tool: a PDF reader with on-tap dictionary lookup and tran
 * Here is a short demo video: https://youtube.com/shorts/PT9LMYptGUk
 * Or just some screenshots:
 <div>
-  <img alt="onboarding slide 1" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/onboarding-0.png?raw=true" width="22%" />
-  <img alt="onboarding slide 2" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/onboarding-1.png?raw=true" width="22%" />
-  <img alt="onboarding slide 3" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/onboarding-2.png?raw=true" width="22%" />
-  <img alt="onboarding slide 4" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/onboarding-3.png?raw=true" width="22%" />
+  <img alt="onboarding slide 1" src="./screenshots/onboarding-0.png" width="22%" />
+  <img alt="onboarding slide 2" src="./screenshots/onboarding-1.png" width="22%" />
+  <img alt="onboarding slide 3" src="./screenshots/onboarding-2.png" width="22%" />
+  <img alt="onboarding slide 4" src="./screenshots/onboarding-3.png" width="22%" />
 </div>
 <div>
-  <img alt="pdf view" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-0.png?raw=true" width="30%" />
-  <img alt="word view" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-1.png?raw=true" width="30%" />
-  <img alt="sentence view - translation" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-2.png?raw=true" width="30%" />
+  <img alt="pdf view" src="./screenshots/demo-0.png" width="30%" />
+  <img alt="word view" src="./screenshots/demo-1.png" width="30%" />
+  <img alt="sentence view - translation" src="./screenshots/demo-2.png" width="30%" />
 </div>
 
 <div>
-  <img alt="sentence view - word breakdown" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-3.png?raw=true" width="30%" />
-  <img alt="sentence view - pinyin" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-4.png?raw=true" width="30%" />
-  <img alt="dictionary" src="https://github.com/siyusun02/ssc25-learn-by-reading-chinese/screenshots/demo-5.png?raw=true" width="30%" />
+  <img alt="sentence view - word breakdown" src="./screenshots/demo-3.png" width="30%" />
+  <img alt="sentence view - pinyin" src="./screenshots/demo-4.png" width="30%" />
+  <img alt="dictionary" src="./screenshots/demo-5.png" width="30%" />
 </div>
 
 
