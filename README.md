@@ -1,6 +1,6 @@
 # Swift Student Challenge 2025: Learn by Reading - Chinese Edition
 
-Happy to share my winning submission for the Swift Student Challenge 2025 — an app playground called *Learn by Reading – Chinese Edition*.
+Happy to share my **winning submission for the Swift Student Challenge 2025** — an app playground called *Learn by Reading – Chinese Edition*.
 It's a simple, focused tool: a PDF reader with on-tap dictionary lookup and translation, built to help intermediate/advanced Chinese learners read content they actually enjoy, like books, short stories, or novels.
 
 ## Demo
@@ -28,7 +28,7 @@ It's a simple, focused tool: a PDF reader with on-tap dictionary lookup and tran
 
 ## Background
 
-I've been learning Chinese for a while now, and I'm currently at an early intermediate level. One problem I kept running into is that I understand a lot more when listening than when reading — especially with longer texts like stories or books.
+I have been learning Chinese for a while now, and I'm currently at an early intermediate level. One problem I kept running into is that I understand a lot more when listening than when reading — especially with longer texts like stories or books.
 
 I wanted to bridge that gap by reading Chinese novels, but it quickly became frustrating. Without pinyin or quick dictionary access, it's really hard to figure out how unfamiliar characters are pronounced — and in Chinese, pronunciation is often the key to recognizing meaning.
 
@@ -36,7 +36,7 @@ There are some apps out there that support this kind of assisted reading. But mo
 
 So, I made my own.
 
-## What the App Does
+## Feature list
 
 * Open any PDF file — course material, eBooks, scanned worksheets — directly from your device's document library (including iCloud and other sources)
 * Tap on any word to view:
@@ -60,8 +60,8 @@ So, I made my own.
 
 ## How to run
 Since the project was created for the Swift Student Challenge, it's packaged as an app playground and can be run directly with Swift Playgrounds (just open the `Learn_by_Reading.swiftpm` file):
-    * [Swift playgrounds for iPad](https://apps.apple.com/de/app/swift-playground/id908519492)
-    * You can also use Swift Playgrounds for Mac, but some features, as the Translation API, are not available yet (status February 2025)
+* [Swift playgrounds for iPad](https://apps.apple.com/de/app/swift-playground/id908519492)
+* You can also use Swift Playgrounds for Mac, but some features, as the Translation API, are not available yet (status February 2025)
 
 If you want to test it on an iPhone, you'll need to open the project in Xcode, build it, and run it on a connected device.
 
